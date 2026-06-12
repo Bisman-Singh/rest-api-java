@@ -24,3 +24,5 @@ curl -X POST http://localhost:8080/api/users -d '{"name":"Alice","email":"alice@
 curl http://localhost:8080/api/users
 curl http://localhost:8080/api/users/1
 ```
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
